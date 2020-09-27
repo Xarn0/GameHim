@@ -107,20 +107,20 @@ a:hover{
 }
 
 #imag{
-                width:36%;
+                width:400px;
                 border:10px solid rgb(170, 208, 226);
-                height:500px;
+                height:370px;
 }
 #imag2{
-                width:36%;
-                height: 500px;
+                width:400px;
+                height: 370px;
                 border:10px solid rgb(170, 208, 226);
 }
 .fontg{
                 color:#859
 }
 .dialogWindow{
-                width:30%;
+                width:370px;
                 height:100px;
                 margin:40px auto 0;
                 font-size:1.4em;
