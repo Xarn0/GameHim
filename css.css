@@ -107,13 +107,13 @@ a:hover{
 }
 
 #imag{
-                width:44%;
+                width:36%;
                 border:10px solid rgb(170, 208, 226);
-                height: 50%;
+                height:500px;
 }
 #imag2{
-                width:44%;
-                height: 50%;
+                width:36%;
+                height: 500px;
                 border:10px solid rgb(170, 208, 226);
 }
 .fontg{
