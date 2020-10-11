@@ -2,7 +2,10 @@
                 padding: 0;
                 margin:0;
                 user-select:none;
-                height: 38px;
+               
+}
+.gg{
+                margin:30px;
 }
 header{
                 display:flex;
@@ -26,6 +29,7 @@ a:hover{
                 background-color:#f11;
                 padding:4px;
                 border-radius: 40px;
+
 }
 .mainOne{
                 position:relative;
